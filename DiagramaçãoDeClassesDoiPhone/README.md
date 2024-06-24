@@ -36,44 +36,6 @@ O projeto é estruturado da seguinte forma:
     * **`AparelhoTelefonico`** - Classe que implementa as funcionalidades de chamadas telefônicas.
     * **`NavegadorInternet`** - Classe que implementa as funcionalidades do navegador de internet.
     
-    * ## Diagrama UML do Projeto iPhone
+    ## Diagrama UML do Projeto iPhone
 
-```plantuml
-@startuml
-class iPhone {
-    +ligar() : void
-    +desligar() : void
-    +ajustarVolume() : void
-    +bloquearTela() : void
-    +desbloquearTela() : void
-    +fazerLigação(numero : String) : Void 
-    +encerrarLigação() : Void
-    +tocarMusica(nomeDaMusica : String) : Void
-    +abrirNavegador(url : String) : Void
-}
-
-ReprodutorDeMusica --|> iPhone
-AparelhoTelefonico --|> iPhone
-NavegadorInternet --|> iPhone
-
-class ReprodutorDeMusica {
-    +tocar() : void
-    +pausar() : void
-    +selecionarMusica(musica : String) : void
-}
-
-class AparelhoTelefonico {
-    +ligar(numero : String) : Void
-    +atender() : Void
-    +iniciarCorreioDeVoz() : Void 
-}
-
-class NavegadorInternet {
-    +exibirPagina(url : String) : void 
-    +adicionarNovaAba() : void 
-    +atualizarPagina() : void
-    +fecharAba() : void
-}
-
-@enduml
-  
+markdown !["C:\Users\Usuario\OneDrive\Área de Trabalho\DIO\Diagrama\Diagrama iPhone desafio de código.drawio.png"](diagrama_iphone.png)
