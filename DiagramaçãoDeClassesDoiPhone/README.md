@@ -38,5 +38,5 @@ O projeto é estruturado da seguinte forma:
     * **`NavegadorInternet`** - Classe que implementa as funcionalidades do navegador de internet.
     
 ## Diagrama UML do Projeto iPhonehone
-![alt text](<Diagrama iPhone desafio de código.jpg>)
 
+![alt text](<Diagrama iPhone desafio de código.1.jpg>)
