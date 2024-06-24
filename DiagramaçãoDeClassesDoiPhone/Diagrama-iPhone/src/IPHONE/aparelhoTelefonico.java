@@ -1,3 +1,4 @@
+package IPHONE;
 import java.util.Scanner;
 
 class AparelhoTelefonico extends iPhone { // Herança da classe iPhone

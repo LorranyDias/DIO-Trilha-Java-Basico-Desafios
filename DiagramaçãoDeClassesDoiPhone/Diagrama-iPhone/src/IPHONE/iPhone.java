@@ -1,3 +1,4 @@
+package IPHONE;
 import java.util.Scanner;
 
 public class iPhone {
