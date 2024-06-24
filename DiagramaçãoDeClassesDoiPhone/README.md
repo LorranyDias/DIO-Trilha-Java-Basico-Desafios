@@ -3,6 +3,7 @@
 ## Descrição
 
 Este projeto é uma simulação de um iPhone, implementada em Diagrama UML. O objetivo é demonstrar o funcionamento de um iPhone, utilizando conceitos de programação orientada a objetos, como herança e polimorfismo.
+
 ## Funcionalidades
 
 O projeto inclui as seguintes funcionalidades:
@@ -36,6 +37,6 @@ O projeto é estruturado da seguinte forma:
     * **`AparelhoTelefonico`** - Classe que implementa as funcionalidades de chamadas telefônicas.
     * **`NavegadorInternet`** - Classe que implementa as funcionalidades do navegador de internet.
     
-    ## Diagrama UML do Projeto iPhone
+## Diagrama UML do Projeto iPhonehone
+![alt text](<Diagrama iPhone desafio de código.jpg>)
 
-markdown !["C:\Users\Usuario\OneDrive\Área de Trabalho\DIO\Diagrama\Diagrama iPhone desafio de código.drawio.png"](diagrama_iphone.png)
